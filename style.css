@@ -40,7 +40,7 @@ header{
 }
 .title::after
 {
-  content: ''; background: ##ff523b;
+  content: ''; background: #ff523b;
   width: 80px; height: 5px;
   border-radius: 5 ;px; position: absolute;
   bottom: 0; left: 50%; transform: translateX(-50%);
